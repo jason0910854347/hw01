@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Text_hello">您好！</string>
+    <string name="Button_sizes">縮放大小</string>
+</resources>
